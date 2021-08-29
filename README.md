@@ -3,7 +3,7 @@
 ### Instructions
 ---
 1. Clone the github repository.<br>
-    ```git clone <link>```
+    ```git clone https://github.com/gauravbasu6/whatsapp-bot.git```
 <br>
 2. Install Selenium package for python.<br>
     ```pip install selenium```
