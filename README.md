@@ -3,10 +3,10 @@
 ### Instructions
 ---
 1. Clone the github repository.<br>
-    ```git clone https://github.com/gauravbasu6/whatsapp-bot.git```
+```git clone https://github.com/gauravbasu6/whatsapp-bot.git```
 <br>
 2. Install Selenium package for python.<br>
-    ```pip install selenium```
+```pip install selenium```
 <br>
 3. Install [chromedriver](https://chromedriver.chromium.org/) for Google Chrome ([geckodriver](https://github.com/mozilla/geckodriver/releases), if using Firefox)<br>
 Ensure, the driver is in $PATH of your system.<br>
