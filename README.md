@@ -3,10 +3,10 @@
 ### Instructions
 ---
 1. Clone the github repository.<br>
-    `git clone <link>`
+    ```git clone <link>```
 <br>
 2. Install Selenium package for python.<br>
-    `pip install selenium`
+    ```pip install selenium```
 <br>
 3. Install [chromedriver](https://chromedriver.chromium.org/) for Google Chrome ([geckodriver](https://github.com/mozilla/geckodriver/releases), if using Firefox)<br>
 Ensure, the driver is in $PATH of your system.<br>
@@ -15,6 +15,6 @@ Ensure, the driver is in $PATH of your system.<br>
 
 ### Note
 ---
-There is a sleep timer of 15 seconds, in the script, to scan the QR code on web.whatsapp.com, when the script is run.<br>`time.sleep(15)`
+There is a sleep timer of 15 seconds, in the script, to scan the QR code on web.whatsapp.com, when the script is run.<br>```time.sleep(15)```
 <br>Increase it, if required.
 
